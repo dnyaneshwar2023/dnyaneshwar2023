@@ -32,8 +32,7 @@ A Competitive Programmer | Python enthusiast.
 <a href="https://www.hackerearth.com/@dpw4112001"><img src = "https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/logo_new.png" width = "120" height = "50"></a>
 
 
-
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7748406&style=0006&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>                                    
+<!-- Start of WebFreeCounter Code -->
+<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gnnqkn&nd=6&style=47" border="0" alt="free counter"></a>
+<!-- End of WebFreeCounter Code -->                                   
                                     
