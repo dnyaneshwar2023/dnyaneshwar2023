@@ -38,5 +38,4 @@ A Competitive Programmer | Python enthusiast.
 <a href="https://www.hackerearth.com/@dpw4112001"><img src = "https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/logo_new.png" width = "120" height = "50"></a>
 
 
-<a href="https://www.freecounterstat.com" title="website hits counter"><img src="https://counter8.stat.ovh/private/freecounterstat.php?c=3cjnyhalza8z7qz1dpklukbdar94w1p6" border="0" title="website hits counter" alt="website hits counter"></a>
-                               
+
