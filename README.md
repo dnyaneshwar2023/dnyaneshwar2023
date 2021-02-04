@@ -21,6 +21,10 @@ A Competitive Programmer | Python enthusiast.
 ### Recent Projects:
   + Smart-Receipt
 
+<br>
+<br>
+
+
 🤝🏻 Let's Learn, Connect and Collaborate! 🤝🏻
 
 ### Reach Me:
