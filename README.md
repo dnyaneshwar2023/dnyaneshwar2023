@@ -30,3 +30,5 @@ A Competitive Programmer | Python enthusiast.
 <a href="https://www.codechef.com/users/dpw4112001"><img src = "https://www.codechef.com/sites/all/themes/abessive/logo.svg" width = "120" height = "50"></a>
 
 <a href="https://www.hackerearth.com/@dpw4112001"><img src = "https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/logo_new.png" width = "120" height = "50"></a>
+
+<a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter8.stat.ovh/private/freecounterstat.php?c=euuup28dj6rxnkbyk2ds2nbrfebtj3cz" border="0" title="hit counter" alt="hit counter"></a>
