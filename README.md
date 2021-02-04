@@ -12,7 +12,7 @@ A Competitive Programmer | Python enthusiast.
   + Watching Youtube 📽.<br>
   Favourite Creater : Trakin Tech. 
   + Music 🎵
-  + Cricket.<br>
+  + Cricket 🏏.<br>
   Favourite Cricketer : Rohit Sharma
   
 ### Skills:  
