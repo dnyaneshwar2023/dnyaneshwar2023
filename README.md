@@ -39,7 +39,5 @@ A Competitive Programmer | Python enthusiast.
 
 
 
-<!-- Start of WebFreeCounter Code -->
-<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gnnqkn&nd=6&style=47" border="0" alt="free counter"></a>
-<!-- End of WebFreeCounter Code -->                                   
-                                    
+ <a href='https://www.horando.de/en/'>Classic watches</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=16a64caada533ab1c28dd4517ec8bfc0e302ba4b'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/790287/t/2"></script>                                 
