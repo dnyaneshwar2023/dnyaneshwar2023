@@ -12,7 +12,7 @@ A Competitive Programmer | Python enthusiast.
   + Watching Youtube.<br>
   Favourite Creater : Trakin Tech. 
   + Music 🎵
-  + Cricket
+  + Cricket.<br>
   Favourite Cricketer : Rohit Sharma
   
 ### Skills:  
@@ -24,4 +24,5 @@ A Competitive Programmer | Python enthusiast.
 ### Reach Me:
 <a href="https://www.linkedin.com/in/dnyaneshwar2023/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a>   <a href="https://www.instagram.com/dnyaneshwar9987/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="35"></a>    
 
-
+### Profiles :
+<a href="https://codeforces.com/profile/CodingBeast23"><img src = "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/062020/codeforces_logo.png?25Whc0FssKcoh3UpkDc30_e5cJvgkTYZ&itok=Ct4aMOVC"></a>
