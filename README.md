@@ -9,7 +9,7 @@ A Competitive Programmer | Python enthusiast.
 <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="220">
 
 ### Hobbies:
-  + Watching Youtube.<br>
+  + Watching Youtube 📽.<br>
   Favourite Creater : Trakin Tech. 
   + Music 🎵
   + Cricket.<br>
@@ -18,6 +18,8 @@ A Competitive Programmer | Python enthusiast.
 ### Skills:  
 <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50">  <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="45">  
   
+### Recent Projects
+    + ### Smart-Receipt
 
 🤝🏻 Let's Learn, Connect and Collaborate! 🤝🏻
 
@@ -30,6 +32,7 @@ A Competitive Programmer | Python enthusiast.
 <a href="https://www.codechef.com/users/dpw4112001"><img src = "https://www.codechef.com/sites/all/themes/abessive/logo.svg" width = "120" height = "50"></a>
 
 <a href="https://www.hackerearth.com/@dpw4112001"><img src = "https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/logo_new.png" width = "120" height = "50"></a>
+
 
 
 <!-- Start of WebFreeCounter Code -->
