@@ -20,6 +20,7 @@ A Competitive Programmer | Python enthusiast.
   
 ### Recent Projects:
   + Smart-Receipt <a href="https://github.com/Dnyaneshwar-dev/Smart-Receipt-Generator"> 📎 </a>
+  + Smart-Expense Ethereum <a href="https://github.com/Dnyaneshwar-dev/Smart-Expense"> 📎 </a>
 
 <br>
 <br>
