@@ -16,8 +16,8 @@ A Competitive Programmer | Python enthusiast.
   Favourite Cricketer : Rohit Sharma
   
 ### Skills:  
-<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50">  <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="45">   <img src="https://www.pinclipart.com/picdir/big/336-3367489_mongodb-mongodb-nosql-logo-clipart.png" width="45" height="45"> 
-<img src="https://camo.githubusercontent.com/f253b5f42f7d28023b29b06220ade4929d58c90772f9da0b100b16558fca7903/68747470733a2f2f696d616765732e7475746f7269616c656467652e6e65742f696d616765732f6e6f64652e706e67" width="45" height="45"> <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="45" height="45">  <img src="https://www.adequateinfosoft.com/Assest/images/express.png" width="45" height="45">
+<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45">   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50">    <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="45">    <img src="https://www.pinclipart.com/picdir/big/336-3367489_mongodb-mongodb-nosql-logo-clipart.png" width="45" height="45"> 
+  <img src="https://camo.githubusercontent.com/f253b5f42f7d28023b29b06220ade4929d58c90772f9da0b100b16558fca7903/68747470733a2f2f696d616765732e7475746f7269616c656467652e6e65742f696d616765732f6e6f64652e706e67" width="45" height="45"> <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="45" height="45">  <img src="https://www.adequateinfosoft.com/Assest/images/express.png" width="45" height="45">
 
   
 ### Recent Projects:
