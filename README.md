@@ -2,6 +2,7 @@
 A Competitive Programmer | Python enthusiast.
 
 ### About Me:
++ <a href="https://drive.google.com/file/d/1eQ1woc1CzKtYJG8rSZ5ej109-zaXCpCz/view"> Resume Link </a>
 + I am a Second-Year Student at Walchand College of Engineering Sangli. 🏫
 + I am currently learning Python and App Development. 🌐
 + I do Competitive Programming as regular practice. 💻
