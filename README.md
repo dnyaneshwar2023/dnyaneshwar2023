@@ -42,6 +42,6 @@ A Competitive Programmer | Python enthusiast.
 <a href="https://www.codechef.com/users/dpw4112001"><img src = "https://www.codechef.com/sites/all/themes/abessive/logo.svg" width = "120" height = "50"></a>
 
 <a href="https://www.hackerearth.com/@dpw4112001"><img src = "https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/logo_new.png" width = "120" height = "50"></a>
-<img src="https://camo.githubusercontent.com/4844a5940f21485061ee72c81a7e9da1638a0b2ee37b40169c47f6bea14d0d04/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d50616c6c6176693637392662675f636f6c6f723d46464646464626636f6c6f723d303030303030266c696e653d30303030303026706f696e743d303046463030" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Dnyaneshwar-dev&amp;bg_color=FFFFFF&amp;color=000000&amp;line=000000&amp;point=00FF00" style="max-width:100%;">
+<img data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Dnyaneshwar-dev&amp;bg_color=FFFFFF&amp;color=000000&amp;line=000000&amp;point=00FF00" style="max-width:100%;">
 
 
