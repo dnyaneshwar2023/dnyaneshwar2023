@@ -1,10 +1,10 @@
 ## 👨‍💻 Dnyaneshwar Ware 👨‍💻
-A Competitive Programmer | Python enthusiast.
+A Competitive Programmer | Web Development Enthusiast.
 
 ### About Me:
 + <a href="https://drive.google.com/file/d/1cZv8e1NCp0CktdbA-5syUYUHBn7fOx-5/view?usp=sharing"> Resume Link </a>
-+ I am a Second-Year Student at Walchand College of Engineering Sangli. 🏫
-+ I am currently learning Python and App Development. 🌐
++ I am a Third-Year Student at Walchand College of Engineering Sangli. 🏫
++ I am currently learning Python and Web Development. 🌐
 + I do Competitive Programming as regular practice. 💻
 
 <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="220">
@@ -22,6 +22,7 @@ A Competitive Programmer | Python enthusiast.
 
   
 ### Recent Projects:
+  + EveryByte-Coderooms <a href="https://github.com/Dnyaneshwar-dev/everybyte-coderooms"> 📎 </a>
   + MakeMyAttendence <a href="https://github.com/Dnyaneshwar-dev/makemyattendance-api"> 📎 </a>
   + DappWallet  <a href="https://github.com/Dnyaneshwar-dev/DappWallet"> 📎 </a>
   + Smart-Receipt <a href="https://github.com/Dnyaneshwar-dev/Smart-Receipt-Generator"> 📎 </a>
@@ -30,8 +31,6 @@ A Competitive Programmer | Python enthusiast.
 <br>
 <br>
 
-
-🤝🏻 Let's Learn, Connect and Collaborate! 🤝🏻
 
 ### Reach Me:
 <a href="https://www.linkedin.com/in/dnyaneshwar2023/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a>   <a href="https://www.instagram.com/dnyaneshwar9987/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="35"></a>    
