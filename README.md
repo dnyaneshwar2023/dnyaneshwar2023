@@ -37,7 +37,6 @@ A Competitive Programmer | Web Development Enthusiast.
 
 ### Profiles :
 <a href="https://codeforces.com/profile/CodingBeast23"><img src = "https://sta.codeforces.com/s/26835/images/codeforces-logo-with-telegram.png" width = "120" height = "50"></a>
-
 <a href="https://www.codechef.com/users/dpw4112001"><img src = "https://www.codechef.com/sites/all/themes/abessive/logo.svg" width = "120" height = "50"></a>
 
 <a href="https://www.hackerearth.com/@dpw4112001"><img src = "https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/logo_new.png" width = "120" height = "50"></a>
