@@ -54,7 +54,7 @@ A Competitive Programmer | Web Development Enthusiast.
 <br>
 <br>
 
-## Connect with me  
+<h1 align="left">Connect with me</h1>
 <div align="center">
  <a href="https://www.linkedin.com/in/dnyaneshwar2023" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -72,7 +72,8 @@ A Competitive Programmer | Web Development Enthusiast.
 <a href="https://www.codechef.com/users/dpw4112001"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"  alt=Codechef style="margin-bottom: 5px;"></a>
 <a href="https://www.hackerearth.com/@dpw4112001"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt=Hackerearth style="margin-bottom: 5px;"></a>
   
-  
+<br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dnyaneshwar-dev&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" style="max-width:100%;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp;theme=dark" style="max-width:100%;">
