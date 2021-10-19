@@ -1,5 +1,5 @@
-## 👨‍💻 Dnyaneshwar Ware 👨‍💻
-A Competitive Programmer | Web Development Enthusiast.
+<h1 align="center">Hi there, I'm <a target="_blank" href="https://dnyaneshwarware.live/">Dnyaneshwar Ware</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1 align="center">I am a Competitive Programmer, Web Developer</h1>
 
 ### About Me:
 + <a href="https://drive.google.com/file/d/1cZv8e1NCp0CktdbA-5syUYUHBn7fOx-5/view?usp=sharing"> Resume Link </a>
