@@ -8,7 +8,7 @@
 + I am currently learning Python and Web Development. 🌐
 + I do Competitive Programming as regular practice. 💻
 
-<img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="220">
+<img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="320">
 <br>
 <br>
 
