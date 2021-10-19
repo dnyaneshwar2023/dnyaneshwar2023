@@ -37,7 +37,7 @@ A Competitive Programmer | Web Development Enthusiast.
   <img src="https://img.shields.io/badge/webrtc-%23333333.svg?&style=for-the-badge&logo=webrtc&logoColor=white" />
 </p>
 
-
+<br>
   
 
 ### Recent Projects 👨‍💻
@@ -63,7 +63,8 @@ A Competitive Programmer | Web Development Enthusiast.
 <a href="https://www.instagram.com/dnyaneshwar9987/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
 </a>
-
+<br>
+<br>
 <h1 align="left" >Programming Profiles</h1>
   
 <a href="https://codeforces.com/profile/CodingBeast23"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt=Codeforces style="margin-bottom: 5px;"></a>
@@ -74,7 +75,7 @@ A Competitive Programmer | Web Development Enthusiast.
   
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dnyaneshwar-dev&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" style="max-width:100%;">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp;theme=dark" style="max-width:100%;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp;theme=dark" style="max-width:100%;">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Dnyaneshwar-dev&amp;bg_color=FFFFFF&amp;color=000000&amp;line=000000&amp;point=00FF00" style="max-width:100%;">
 
