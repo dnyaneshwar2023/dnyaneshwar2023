@@ -81,8 +81,10 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dnyaneshwar-dev&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar-dev&theme=blue-green" style="max-width:100%;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp;theme=dark" style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-dev&theme=blue-green" style="max-width:100%;">
+
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Dnyaneshwar-dev&amp;bg_color=FFFFFF&amp;color=000000&amp;line=000000&amp;point=00FF00" style="max-width:100%;">
 
