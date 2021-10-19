@@ -41,12 +41,12 @@ A Competitive Programmer | Web Development Enthusiast.
   
 
 ### Recent Projects 👨‍💻
-
+<br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=everybyte-coderooms&show_icons=true&theme=monokai"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=makemyattendance-api&show_icons=true&theme=monokai"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=makemyattendance-api&show_icons=true&theme=jolly"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=Smart-Receipt-Generator&show_icons=true&theme=monokai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=DappWallet&show_icons=true&theme=monokai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=DappWallet&show_icons=true&theme=jolly">
 
 </div>
 
