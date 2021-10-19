@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<h1>Hobbiese</h1>
+<h1>Hobbies</h1>
 
   + Watching Youtube 📽.<br>
   Favourite Creater : Trakin Tech. 
