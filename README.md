@@ -46,7 +46,7 @@
 <br>
   
 
-### Recent Projects 👨‍💻
+<h1>Recent Projects 👨‍💻 </h1>
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=everybyte-coderooms&show_icons=true&theme=monokai"> 
