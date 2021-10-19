@@ -71,7 +71,7 @@
 </a>
 <br>
 <br>
-<h1 align="left" >Programming Profiles</h1>
+<h1 align="left" >Programming Profiles 👨‍💻</h1>
   
 <a href="https://codeforces.com/profile/CodingBeast23"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt=Codeforces style="margin-bottom: 5px;"></a>
 <a href="https://leetcode.com/dpw4112001/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt=Leetcode style="margin-bottom: 5px;"></a>
