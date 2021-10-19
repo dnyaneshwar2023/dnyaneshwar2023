@@ -67,7 +67,7 @@ A Competitive Programmer | Web Development Enthusiast.
 
 ## Programming Profiles
 <a href="https://codeforces.com/profile/CodingBeast23"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt=Codeforces style="margin-bottom: 5px;"></a>
-<a href="https://leetcode.com/dpw4112001/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=Leetcode" style="margin-bottom: 5px;"></a>
+<a href="https://leetcode.com/dpw4112001/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt=Leetcode" style="margin-bottom: 5px;"></a>
 <a href="https://www.codechef.com/users/dpw4112001"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"  alt=Codechef style="margin-bottom: 5px;"></a>
 <a href="https://www.hackerearth.com/@dpw4112001"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt=Hackerearth style="margin-bottom: 5px;"></a>
   
