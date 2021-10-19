@@ -54,11 +54,18 @@ A Competitive Programmer | Web Development Enthusiast.
 <br>
 <br>
 
+## Connect with me  
+<div align="center">
+ <a href="https://www.linkedin.com/in/dnyaneshwar2023" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-### Reach Me:
-<a href="https://www.linkedin.com/in/dnyaneshwar2023/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a>   <a href="https://www.instagram.com/dnyaneshwar9987/"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="35"></a>    
+<a href="https://www.instagram.com/dnyaneshwar9987/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
+</a>
 
-### Profiles :
+
+### Programming Profiles :
 <a href="https://codeforces.com/profile/CodingBeast23"><img src = "https://sta.codeforces.com/s/26835/images/codeforces-logo-with-telegram.png" width = "120" height = "50"></a>
 <a href="https://www.codechef.com/users/dpw4112001"><img src = "https://www.codechef.com/sites/all/themes/abessive/logo.svg" width = "120" height = "50"></a>
 <a href="https://www.hackerearth.com/@dpw4112001"><img src = "https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/logo_new.png" width = "120" height = "50"></a>
