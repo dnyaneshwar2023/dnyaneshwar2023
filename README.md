@@ -65,10 +65,13 @@ A Competitive Programmer | Web Development Enthusiast.
 </a>
 
 
-### Programming Profiles :
-<a href="https://codeforces.com/profile/CodingBeast23"><img src = "https://sta.codeforces.com/s/26835/images/codeforces-logo-with-telegram.png" width = "120" height = "50"></a>
-<a href="https://www.codechef.com/users/dpw4112001"><img src = "https://www.codechef.com/sites/all/themes/abessive/logo.svg" width = "120" height = "50"></a>
-<a href="https://www.hackerearth.com/@dpw4112001"><img src = "https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/logo_new.png" width = "120" height = "50"></a>
+## Programming Profiles
+<a href="https://codeforces.com/profile/CodingBeast23"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt=Codeforces style="margin-bottom: 5px;"></a>
+<a href="https://leetcode.com/dpw4112001/"><img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=Leetcode style="margin-bottom: 5px;"></a>
+<a href="https://www.codechef.com/users/dpw4112001"><img src=https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white  alt=Codechef style="margin-bottom: 5px;"></a>
+<a href="https://www.hackerearth.com/@dpw4112001"><img src=https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue alt=Hackerearth style="margin-bottom: 5px;"></a>
+  
+  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dnyaneshwar-dev&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" style="max-width:100%;">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp;theme=dark" style="max-width:100%;">
