@@ -39,12 +39,17 @@ A Competitive Programmer | Web Development Enthusiast.
 
 
   
-### Recent Projects:
-  + EveryByte-Coderooms <a href="https://github.com/Dnyaneshwar-dev/everybyte-coderooms"> 📎 </a>
-  + MakeMyAttendence <a href="https://github.com/Dnyaneshwar-dev/makemyattendance-api"> 📎 </a>
-  + DappWallet  <a href="https://github.com/Dnyaneshwar-dev/DappWallet"> 📎 </a>
-  + Smart-Receipt <a href="https://github.com/Dnyaneshwar-dev/Smart-Receipt-Generator"> 📎 </a>
-  + Smart-Expense Ethereum <a href="https://github.com/Dnyaneshwar-dev/Smart-Expense"> 📎 </a>
+
+### Recent Projects 👨‍💻
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=everybyte-coderooms&show_icons=true&theme=monokai"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=makemyattendance-api&show_icons=true&theme=monokai"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=Smart-Receipt-Generator&show_icons=true&theme=monokai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=DappWallet&show_icons=true&theme=monokai">
+
+</div>
+
 
 <br>
 <br>
