@@ -48,11 +48,11 @@
 
 <h1>Recent Projects 👨‍💻 </h1>
 <br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=everybyte-coderooms&show_icons=true&theme=monokai"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=makemyattendance-api&show_icons=true&theme=jolly"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=Smart-Receipt-Generator&show_icons=true&theme=monokai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=DappWallet&show_icons=true&theme=jolly">
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=everybyte-coderooms&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=makemyattendance-api&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=Smart-Receipt-Generator&show_icons=true&theme=jolly" style="width:400px; height:160px;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=DappWallet&show_icons=true&theme=jolly" style="width:400px; height:160px;">
 
 </div>
 
@@ -84,12 +84,12 @@
 
 
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp&theme=light&title_color=blue" style="max-width:100%;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp&theme=jolly&title_color=blue" style="max-width:100%;">
 <br>
   
-<img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-dev&theme=light" style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-dev&theme=jolly" style="max-width:100%;">
   <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar-dev&layout=compact&theme=jolly" style="max-width:100%;">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Dnyaneshwar-dev&amp;bg_color=FFFFFF&amp;color=000000&amp;line=000000&amp;point=00FF00" style="max-width:100%;">
 
