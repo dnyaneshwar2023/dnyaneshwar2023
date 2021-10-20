@@ -3,7 +3,7 @@
 
 <h1>About Me</h1>
 
-+ <a href="https://drive.google.com/file/d/1cZv8e1NCp0CktdbA-5syUYUHBn7fOx-5/view?usp=sharing"> Resume Link </a>
++ <a href="https://drive.google.com/file/d/1cZv8e1NCp0CktdbA-5syUYUHBn7fOx-5/view?usp=sharing"> <b>Resume Link </a>
 + I am a Third-Year Student at Walchand College of Engineering Sangli. 🏫
 + I am currently learning Python and Web Development. 🌐
 + I do Competitive Programming as regular practice. 💻
