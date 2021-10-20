@@ -84,10 +84,10 @@
 
 
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp;theme=dark" style="max-width:100%;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp;theme=light" style="max-width:100%;">
 <br>
   
-<img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-dev&theme=blue-green" style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-dev&theme=light" style="max-width:100%;">
   <br>
 
 
