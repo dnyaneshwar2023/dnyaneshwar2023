@@ -83,6 +83,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Dnyaneshwar-dev&amp;bg_color=FFFFFF&amp;color=000000&amp;line=000000&amp;point=00FF00" style="max-width:100%;">
 
-<img src="https://gpvc.arturio.dev/Dnyaneshwar-dev" width="130px" height="30px"></img>
+ <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Dnyaneshwar-dev&style=flat-square&color=d43182"/></a>
+  <a href="https://github.com/Dnyaneshwar-dev">
 </div>
 
