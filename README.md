@@ -4,7 +4,7 @@
 <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="250">
 <h1>About Me</h1>
 
-+ <a href="https://drive.google.com/file/d/1Dtf9v7psv53lvRaY4o1TfrKiKT9u8ex7/view?usp=sharing"> <b>Resume Link </a>
+
 + I am a Third-Year Student at Walchand College of Engineering Sangli. 🏫
 + I am currently learning React Native 📱.
 + I do Competitive Programming as a regular practice. 💻
