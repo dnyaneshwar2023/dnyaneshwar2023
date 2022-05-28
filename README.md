@@ -1,13 +1,17 @@
 <h1 align="center">Hi there, I'm <a target="_blank" href="https://dnyaneshwarware.live/">Dnyaneshwar</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 <h1 align="center">I am a Competitive Programmer, Full Stack Developer</h1>
 <br>
-<img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="250">
+<div>
+<!-- <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="230"> -->
 <h1>About Me</h1>
 
 
 + I am a Third-Year Student at Walchand College of Engineering Sangli. 🏫
 + I am currently learning React Native 📱.
 + I do Competitive Programming as a regular practice. 💻
+
+</div>
+
 
 
 <br>
