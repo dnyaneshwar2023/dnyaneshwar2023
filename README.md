@@ -54,7 +54,7 @@
 <div align="left">
   <a href="https://github.com/Dnyaneshwar-dev/everybyte-coderooms"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=everybyte-coderooms&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
 </a>
-  <a href="https://github.com/Dnyaneshwar-dev/makemyattendance-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=makemyattendance-api&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
+  <a href="https://github.com/Dnyaneshwar-dev/mentorpoint-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=mentorpoint-frontend&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
 </a>
   <a href="https://github.com/Dnyaneshwar-dev/Smart-Receipt-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=Smart-Receipt-Generator&show_icons=true&theme=jolly" style="width:400px; height:160px;">
 </a>
