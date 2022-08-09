@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a target="_blank" href="https://dnyaneshwarware.live/">Dnyaneshwar</a>
+<h1 align="center">Hi there, I'm <a target="_blank" href="https://dnyaneshwar-dev.github.io/portfolio/">Dnyaneshwar</a>
 <h1 align="center">I am a Competitive Programmer, Full Stack Developer</h1>
 <br>
 <div>
@@ -98,7 +98,6 @@
   <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar-dev&layout=compact&theme=jolly" style="max-width:100%;">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Dnyaneshwar-dev&amp;bg_color=FFFFFF&amp;color=000000&amp;line=000000&amp;point=00FF00" style="max-width:100%;">
 
  <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Dnyaneshwar-dev&style=flat-square&color=d43182"/></a>
   <a href="https://github.com/Dnyaneshwar-dev">
