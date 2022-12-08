@@ -7,8 +7,8 @@
 
 
 + I am a Final-Year Computer Science Student at Walchand College of Engineering Sangli. 🏫
-+ I am currently learning React Native 📱.
-+ I do Competitive Programming as a regular practice. 💻
++ I am currently learning Kotlin.
++ I love doing Competitive Programming as a regular practice. 💻
 
 </div>
 
