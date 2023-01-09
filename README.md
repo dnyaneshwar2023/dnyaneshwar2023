@@ -49,7 +49,7 @@
 <br>
   
 
-<h1>Recent Projects 👨‍💻 </h1>
+<!-- <h1>Recent Projects 👨‍💻 </h1>
 <br>
 <div align="left">
   <a href="https://github.com/Dnyaneshwar-dev/everybyte-coderooms"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=everybyte-coderooms&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
@@ -61,7 +61,7 @@
   <a href="https://github.com/Dnyaneshwar-dev/DappWallet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=DappWallet&show_icons=true&theme=jolly" style="width:400px; height:160px;">
 </a>
 
-</div>
+</div> -->
 
 
 <br>
@@ -90,14 +90,14 @@
 <br>
 
 
-  
+<!--   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp&theme=jolly&title_color=blue" style="max-width:100%;">
 <br>
   
 <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-dev&theme=jolly" style="max-width:100%;">
   <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar-dev&layout=compact&theme=jolly" style="max-width:100%;">
-
+ -->
 
  <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Dnyaneshwar-dev&style=flat-square&color=d43182"/></a>
   <a href="https://github.com/Dnyaneshwar-dev">
