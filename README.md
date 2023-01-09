@@ -90,11 +90,11 @@
 <br>
 
 
-<!--   
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp&theme=jolly&title_color=blue" style="max-width:100%;">
 <br>
   
-<img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-dev&theme=jolly" style="max-width:100%;">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-dev&theme=jolly" style="max-width:100%;">
   <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar-dev&layout=compact&theme=jolly" style="max-width:100%;">
  -->
