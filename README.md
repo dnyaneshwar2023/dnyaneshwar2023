@@ -4,15 +4,11 @@
 <div>
 <!-- <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="230"> -->
 <h1>About Me</h1>
-
-
 + I am a Final-Year Computer Science Student at Walchand College of Engineering Sangli. 🏫
 + I am currently learning Kotlin.
 + I love doing Competitive Programming as a regular practice. 💻
 
 </div>
-
-
 
 <br>
 <br>
@@ -91,7 +87,7 @@
 
 
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-dev&amp&theme=jolly&title_color=blue" style="max-width:100%;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshwar2023&amp&theme=jolly&title_color=blue" style="max-width:100%;">
 <br>
   
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-dev&theme=jolly" style="max-width:100%;">
