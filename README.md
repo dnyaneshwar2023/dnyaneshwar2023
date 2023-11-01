@@ -59,8 +59,6 @@
 
 <h1 align="left" >Major Contributions</h1>
 
-1. [Tanstack Query](https://github.com/TanStack/query) (PR: https://github.com/TanStack/query/pull/6276)
+🎉 [Tanstack Query](https://github.com/TanStack/query) (PR: https://github.com/TanStack/query/pull/6276)
 
-
-  
 
