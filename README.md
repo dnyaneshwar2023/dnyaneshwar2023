@@ -1,17 +1,11 @@
 <h1 align="center">Hi there, I'm <a target="_blank" href="https://dnyaneshwar2023.github.io/portfolio/">Dnyaneshwar</a>
 <h1 align="center">I am Full Stack Developer</h1>
-<br>
-<div>
-<!-- <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="230"> -->
 <h1>About Me</h1>
-+ I am a Final-Year Computer Science Student at Walchand College of Engineering Sangli. 🏫
+
++ I am a working as a Solutions Consultant at [@sahajsoft](https://github.com/sahajsoft)
 + I am currently learning Kotlin.
 + I love doing Competitive Programming as a regular practice. 💻
 
-</div>
-
-<br>
-<br>
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
@@ -43,25 +37,6 @@
 </p>
 
 <br>
-  
-
-<!-- <h1>Recent Projects 👨‍💻 </h1>
-<br>
-<div align="left">
-  <a href="https://github.com/Dnyaneshwar-dev/everybyte-coderooms"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=everybyte-coderooms&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
-</a>
-  <a href="https://github.com/Dnyaneshwar-dev/mentorpoint-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=mentorpoint-frontend&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
-</a>
-  <a href="https://github.com/Dnyaneshwar-dev/Smart-Receipt-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=Smart-Receipt-Generator&show_icons=true&theme=jolly" style="width:400px; height:160px;">
-</a>
-  <a href="https://github.com/Dnyaneshwar-dev/DappWallet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-dev&repo=DappWallet&show_icons=true&theme=jolly" style="width:400px; height:160px;">
-</a>
-
-</div> -->
-
-
-<br>
-<br>
 
 <h1 align="left">Connect with me 💬</h1>
 <div align="left">
@@ -81,21 +56,10 @@
 <a href="https://www.codechef.com/users/dpw4112001"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"  alt=Codechef style="margin-bottom: 5px;"></a>
  <a href="https://www.hackerrank.com/Dnyaneshwar_4"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt=Hackerrank style="margin-bottom: 5px;"></a>
 <a href="https://www.hackerearth.com/@dpw4112001"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt=Hackerearth style="margin-bottom: 5px;"></a>
-  
-<br>
-<br>
+
+<h1 align="left" >Major Contributions</h1>
+1. https://github.com/TanStack/query/pull/6276
 
 
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshwar2023&amp&theme=jolly&title_color=blue" style="max-width:100%;">
-<br>
-  
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-dev&theme=jolly" style="max-width:100%;">
-  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar-dev&layout=compact&theme=jolly" style="max-width:100%;">
- -->
-
- <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Dnyaneshwar-dev&style=flat-square&color=d43182"/></a>
-  <a href="https://github.com/dnyaneshwar2023">
-</div>
 
