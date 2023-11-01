@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <a target="_blank" href="https://dnyaneshwar-dev.github.io/portfolio/">Dnyaneshwar</a>
-<h1 align="center">I am a Competitive Programmer, Full Stack Developer</h1>
+<h1 align="center">Hi there, I'm <a target="_blank" href="https://dnyaneshwar2023.github.io/portfolio/">Dnyaneshwar</a>
+<h1 align="center">I am Full Stack Developer</h1>
 <br>
 <div>
 <!-- <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="230"> -->
@@ -100,6 +100,6 @@
  -->
 
  <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Dnyaneshwar-dev&style=flat-square&color=d43182"/></a>
-  <a href="https://github.com/Dnyaneshwar-dev">
+  <a href="https://github.com/dnyaneshwar2023">
 </div>
 
