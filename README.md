@@ -2,9 +2,8 @@
 <h1 align="center">I am Full Stack Developer</h1>
 <h1>About Me</h1>
 
-+ I am a working as a Solutions Consultant at [@sahajsoft](https://github.com/sahajsoft)
++ I am a writing code at [@sahajsoft](https://github.com/sahajsoft)
 + I am currently learning Kotlin.
-+ I love doing Competitive Programming as a regular practice. 💻
 
 <h1>Technical Skills 🛠</h1>
 
@@ -17,22 +16,22 @@
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+
  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+
  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
  <img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 
 <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
  <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
   <img alt="pgsql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
- 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   
 </p>
 
@@ -59,6 +58,6 @@
 
 <h1 align="left" >Major Contributions</h1>
 
-🎉 [Tanstack Query](https://github.com/TanStack/query) (PR: https://github.com/TanStack/query/pull/6276)
+🎉 [Tanstack query](https://github.com/TanStack/query) (PR: https://github.com/TanStack/query/pull/6276)
 
 
