@@ -58,7 +58,8 @@
 <a href="https://www.hackerearth.com/@dpw4112001"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt=Hackerearth style="margin-bottom: 5px;"></a>
 
 <h1 align="left" >Major Contributions</h1>
-1. https://github.com/TanStack/query/pull/6276
+
+1. [Tanstack Query](https://github.com/TanStack/query) (PR: https://github.com/TanStack/query/pull/6276)
 
 
   
