@@ -1,6 +1,4 @@
-<h1 align="center">Hi there, I'm <a target="_blank" href="https://dnyaneshwar2023.github.io/portfolio/">Dnyaneshwar</a>
-<h1 align="center">I am Full Stack Developer</h1>
-<h1>About Me</h1>
+# Hi there 👋
 
 + I am a writing code at [@sahajsoft](https://github.com/sahajsoft)
 + I am currently learning Kotlin.
