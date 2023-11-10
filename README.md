@@ -58,4 +58,6 @@
 
 🎉 [Tanstack query](https://github.com/TanStack/query) (PR: https://github.com/TanStack/query/pull/6276)
 
+🎉 [Micronaut Docs](https://micronaut.io/) (PR: https://github.com/micronaut-projects/micronaut-core/pull/10093)
+
 
