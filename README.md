@@ -24,8 +24,6 @@
 
 <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
- <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
   <img alt="pgsql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
@@ -55,6 +53,8 @@
 <a href="https://www.hackerearth.com/@dpw4112001"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt=Hackerearth style="margin-bottom: 5px;"></a>
 
 <h1 align="left" >Major Contributions</h1>
+
+🎉 [PrimeReact (UI Components Library)](https://primereact.org/) (PR: https://github.com/primefaces/primereact/pull/5460) [Release: 10.6.0](https://github.com/primefaces/primereact/releases/tag/10.6.0)
 
 🎉 [Tanstack query](https://github.com/TanStack/query) (PR: https://github.com/TanStack/query/pull/6276)
 
